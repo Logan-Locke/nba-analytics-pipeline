@@ -1,4 +1,4 @@
-# NBA Analytics Pipeline: From Data Exploration to Predictive Modeling
+# NBA Analytics Pipeline: Data Exploration to Predictive Modeling
 
 This repository presents a comprehensive data science workflow applied to NBA per-game statistics.
 It showcases practical techniques (data cleaning, visualization, statistical inference,
